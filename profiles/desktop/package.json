@@ -1,0 +1,41 @@
+{
+  "name": "dsh-profile-desktop",
+  "private": true,
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "@deepseek-ai/dsh-experimental-agent-team-profile",
+        "@deepseek-ai/dsh-experimental-schedule-bundle",
+        "dsh-jev-decision-model",
+        "@liustack/modlens",
+        "dsh-at-file",
+        "dsh-obsidian",
+        "dshmarket",
+        "@liustack/modsearch",
+        "dsh-better-sidebar",
+        "@a9i5k4/dsh-auto-memory",
+        "dsh-ui-appearance",
+        "@dsh-trading/bundle",
+        "dsh-builtin-browser",
+        "@dsh-external/dsh-tool-github"
+      ]
+    }
+  },
+  "dependencies": {
+    "@a9i5k4/dsh-auto-memory": "3.2.5",
+    "@dsh-external/dsh-tool-github": "github:NEAZ71eve/dsh-tool-github",
+    "@dsh-trading/bundle": "^0.2.0",
+    "@jiayuw/dsh-files-panel": "github:JiayuuWang/dsh-files-panel",
+    "@liustack/modlens": "^3.26.5",
+    "@liustack/modsearch": "^5.10.5",
+    "dsh-at-file": "^0.6.3",
+    "dsh-better-sidebar": "0.24.1",
+    "dsh-builtin-browser": "0.1.22",
+    "dsh-jev-decision-model": "github:Devin-AXIS/jev-dsh-decision",
+    "dsh-obsidian": "^0.2.5",
+    "dsh-ui-appearance": "^0.1.12",
+    "dshmarket": "^1.66.5"
+  }
+}

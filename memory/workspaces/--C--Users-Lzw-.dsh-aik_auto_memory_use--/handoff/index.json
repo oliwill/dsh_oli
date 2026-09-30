@@ -1,0 +1,75 @@
+{
+  "version": "wb_sidecar_pre_v1",
+  "ws": "--C--Users-Lzw-.dsh-aik_auto_memory_use--",
+  "rebuilt_at": "2026-09-30T07:51:28.744Z",
+  "entries": [
+    {
+      "id": "mem_5b9237544816eab54755b71d5bcb3007",
+      "anchorId": "mem_5b9237544816eab54755b71d5bcb3007",
+      "title": "这是什么",
+      "docTitle": "项目全貌（自动建立 · 待模型重写）",
+      "source": "handoff/PLAN.md",
+      "kind": "plan",
+      "section": "这是什么",
+      "mtime": 0,
+      "criteria": "unknown",
+      "ts": "",
+      "bullets": 0,
+      "chars": 112,
+      "lineStart": 3,
+      "anchored": true,
+      "tags": [
+        "type:state",
+        "sec:这是什么"
+      ],
+      "cues": [],
+      "preview": "本白板由 dsh-auto-memory 在本工作区首次活动时**自动建立**，内容尚未填写。 模型在理解本项目全貌后，请用 memory_note(kind=plan) 整体重写本页，写入真实的全貌。",
+      "body": "type:state\n本白板由 dsh-auto-memory 在本工作区首次活动时**自动建立**，内容尚未填写。\n模型在理解本项目全貌后，请用 memory_note(kind=plan) 整体重写本页，写入真实的全貌。",
+      "layer": "whiteboard",
+      "status": "current",
+      "cue": "本白板由 dsh-auto-memory 在本工作区首次活动时**自动建立**，内容尚未填写。 模型在理解本项目全貌后，请用 memory_note(kind=plan) 整体重写本页，写入真实的全貌。"
+    },
+    {
+      "id": "mem_bd9bafc7da56d31e02905fa99bcd4eec",
+      "anchorId": "mem_bd9bafc7da56d31e02905fa99bcd4eec",
+      "title": "进度与下一步",
+      "docTitle": "项目全貌（自动建立 · 待模型重写）",
+      "source": "handoff/PLAN.md",
+      "kind": "plan",
+      "section": "进度与下一步",
+      "mtime": 0,
+      "criteria": "unknown",
+      "ts": "",
+      "bullets": 0,
+      "chars": 63,
+      "lineStart": 9,
+      "anchored": true,
+      "tags": [
+        "type:progress",
+        "sec:进度与下一步"
+      ],
+      "cues": [],
+      "preview": "本工作区暂无阶段性结论。完成首轮实质工作后请重写白板，写明当前状态与下一步（可直接执行的第一步）。",
+      "body": "type:progress\n本工作区暂无阶段性结论。完成首轮实质工作后请重写白板，写明当前状态与下一步（可直接执行的第一步）。",
+      "layer": "whiteboard",
+      "status": "current",
+      "cue": "本工作区暂无阶段性结论。完成首轮实质工作后请重写白板，写明当前状态与下一步（可直接执行的第一步）。"
+    }
+  ],
+  "by_tag": {
+    "type:state": [
+      "mem_5b9237544816eab54755b71d5bcb3007"
+    ],
+    "sec:这是什么": [
+      "mem_5b9237544816eab54755b71d5bcb3007"
+    ],
+    "type:progress": [
+      "mem_bd9bafc7da56d31e02905fa99bcd4eec"
+    ],
+    "sec:进度与下一步": [
+      "mem_bd9bafc7da56d31e02905fa99bcd4eec"
+    ]
+  },
+  "by_cue": {},
+  "versions": {}
+}

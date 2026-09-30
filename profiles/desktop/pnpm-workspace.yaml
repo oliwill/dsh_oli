@@ -1,0 +1,12 @@
+packages:
+  - .
+
+nodeLinker: hoisted
+autoInstallPeers: false
+minimumReleaseAgeExclude:
+  - '@a9i5k4/dsh-auto-memory@3.2.5'
+allowBuilds:
+  electron: true
+  onnxruntime-node: true
+  protobufjs: true
+  sharp: true

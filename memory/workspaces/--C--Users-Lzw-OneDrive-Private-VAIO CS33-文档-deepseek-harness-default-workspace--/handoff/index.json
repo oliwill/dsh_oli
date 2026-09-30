@@ -1,0 +1,34 @@
+{
+  "version": "wb_sidecar_pre_v1",
+  "ws": "--C--Users-Lzw-OneDrive-Private-VAIO CS33-文档-deepseek-harness-default-workspace--",
+  "rebuilt_at": "2026-09-30T09:17:59.648Z",
+  "entries": [
+    {
+      "id": "mem_851ef049b1cf9fc6a2cc372c4e068fc8",
+      "kind": "plan",
+      "source": "handoff/PLAN.md",
+      "section": "本轮进度与下一步",
+      "tags": [
+        "type:progress",
+        "sec:白板 PLAN"
+      ],
+      "cues": [],
+      "preview": "## 本轮进度与下一步 <!-- memory:mem_c361e5b390e5270415d757d775ff6d31 --> type:progress 当前状态（2026-09-30 17:15 全部复测完成）： - 13 个 des",
+      "mtime": 0,
+      "criteria": "unknown",
+      "layer": "whiteboard",
+      "status": "current",
+      "title": "白板 PLAN",
+      "cue": "<!-- memory:mem_c361e5b390e5270415d757d775ff6d31 -->",
+      "chars": 711,
+      "ts": "2026-09-30 17:17"
+    }
+  ],
+  "by_tag": {
+    "sec:白板 PLAN": [
+      "mem_851ef049b1cf9fc6a2cc372c4e068fc8"
+    ]
+  },
+  "by_cue": {},
+  "versions": {}
+}

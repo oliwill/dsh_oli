@@ -1,0 +1,17 @@
+{
+  "dsh-builtin-browser@0.1.22": [
+    "0.2.0-rc.2"
+  ],
+  "@dsh-trading/tool-market@0.2.0": [
+    "0.2.0-rc.2"
+  ],
+  "@dsh-trading/verdict@0.2.0": [
+    "0.2.0-rc.2"
+  ],
+  "@dsh-trading/risk-guard@0.2.0": [
+    "0.2.0-rc.2"
+  ],
+  "@dsh-external/dsh-tool-github@0.1.0": [
+    "0.2.0-rc.2"
+  ]
+}
